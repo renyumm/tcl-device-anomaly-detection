@@ -1,0 +1,6 @@
+table_name: dip.ads_zl_inspect_detail_di
+host: 10.171.211.15
+port: 8123
+username: dip
+password: dip%401Abc
+alert_flag: 2

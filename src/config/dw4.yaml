@@ -1,0 +1,6 @@
+table_name: dip.tb_runcarddatadetailhistory_detail_final
+host: 10.202.120.127
+port: 8123
+username: dip
+password: dip%401Abc
+alert_flag: 2

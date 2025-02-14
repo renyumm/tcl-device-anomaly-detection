@@ -1,0 +1,11 @@
+clickhouse_sqlalchemy==0.2.3
+fastapi==0.114.0
+kafka_python==2.0.2
+pandas==2.1.4
+pydantic==2.9.1
+Requests==2.32.3
+SQLAlchemy==1.4.51
+uvicorn==0.34.0
+impyla==0.19.0
+uuid==1.30.0
+PyYAML==6.0.2
